@@ -1,5 +1,3 @@
-# Intro
-
 Proof of concept for detecting authenticity of a video.
 
 # References

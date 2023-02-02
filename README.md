@@ -1,6 +1,6 @@
 # Intro
 
-Proof of work to find out more about the authenticity of your video.
+Proof of concept for detecting authenticity of a video.
 
 # References
 

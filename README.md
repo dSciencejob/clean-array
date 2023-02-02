@@ -1,6 +1,6 @@
 # Intro
 
-Find out more about the authenticity of your video.
+Proof of work to find out more about the authenticity of your video.
 
 # References
 

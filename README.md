@@ -1,4 +1,4 @@
-Proof of concept for detecting authenticity of a video.
+Proof of concept for detecting the authenticity of a video.
 
 # References
 
